@@ -1,3 +1,3 @@
 # Publishing to GitHub Pages
 
-[Link to GPT Instructions](https://chatgpt.com/share/6706aa93-b7bc-8005-a75e-82deb1926cb7)
+[Link to GPT Instructions](https://chatgpt.com/c/6706a8cb-0690-8005-b6d0-72c0303f9183)
