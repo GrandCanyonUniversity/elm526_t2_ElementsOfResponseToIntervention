@@ -53,6 +53,7 @@ const Infographic = () => {
               newsletters
             </li>
           </ul>
+          (Read Naturally, 2024)
         </div>
 
         {/* Tier 2 */}
@@ -81,6 +82,7 @@ const Infographic = () => {
               reviews
             </li>
           </ul>
+          (Harlacher et al., n.d.)
         </div>
 
         {/* Tier 3 */}
@@ -110,6 +112,7 @@ const Infographic = () => {
               family meetings
             </li>
           </ul>
+          (Harlacher et al., n.d.)
         </div>
       </div>
 
@@ -120,7 +123,6 @@ const Infographic = () => {
         <div className="visual-element">
           <FontAwesomeIcon icon={faClipboardList} size="3x" />
         </div>
-
         {/* Comparison Chart */}
         <div className="comparison-chart">
           <div className="comparison-step">
@@ -136,7 +138,7 @@ const Infographic = () => {
             <p>Weekly Progress Monitoring</p>
           </div>
         </div>
-
+        (Harlacher et al., n.d.)
         <p>
           <strong>Family Communication Tip:</strong> Frequent updates are
           key—use strategies like emails, charts, and in-person meetings for
